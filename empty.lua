@@ -1,1 +1,1 @@
-local fine = print('fine')
+print('ohohhh')
