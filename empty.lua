@@ -1,0 +1,1 @@
+local fine = print('fine')
