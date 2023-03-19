@@ -1,1 +1,1 @@
-print('ohohhh')
+print('dad')
